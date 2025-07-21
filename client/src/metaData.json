@@ -1,0 +1,58 @@
+{
+  "/": {
+    "title": "Decoverse",
+    "description": "Empowering Coders and Developers Worldwide"
+  },
+  "/about": {
+    "title": "About | Decoverse",
+    "description": "Empowering Coders and Developers Worldwide"
+  },
+  "/contests": {
+    "title": "contests | decoverse",
+    "description": "Discover upcoming coding contests on Decoverse and stay in the loop with the latest challenges. Join us, take part, and put your coding skills to the test!"
+  },
+  "/contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with us."
+  },
+  "/login": {
+    "title": "Login",
+    "description": "Log in to your Decoverse account."
+  },
+  "/logout": {
+    "title": "Logout",
+    "description": "Log out from your Decoverse account."
+  },
+  "/signup": {
+    "title": "Sign Up",
+    "description": "Create a new account on Decoverse."
+  },
+  "/updates": {
+    "title": "Updates",
+    "description": "Stay updated with the latest news and developments from Decoverse."
+  },
+  "/home": {
+    "title": "Home",
+    "description": "Empowering Coders and Developers Worldwide"
+  },
+  "/feedback": {
+    "title": "Feedback",
+    "description": "Provide your valuable feedback to Decoverse."
+  },
+  "/discord": {
+    "title": "Discord Redirect",
+    "description": "Redirecting to Decoverse's Discord channel."
+  },
+  "/404": {
+    "title": "Error 404",
+    "description": "Page not found. Error 404."
+  },
+  "/u/leaderboard": {
+    "title": "Leaderboard",
+    "description": "Check the leaderboard for top performers on Decoverse."
+  },
+  "": {
+    "title": "idk",
+    "description": "jm"
+  }
+}
